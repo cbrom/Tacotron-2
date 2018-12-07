@@ -12,7 +12,7 @@ The models can be downloaded from [this google drive folder](https://drive.googl
 
  ## Graffin-lim algorithm
 
-Contains experiments on trainable graffin-lim algorithm. 
+Contains experiments on graffin-lim algorithm. 
 * [Experiment](https://github.com/hansonrobotics/Tacotron-2/blob/master/Experiments%20on%20Griffin.ipynb)
 * [Speech synthesis](https://github.com/hansonrobotics/Tacotron-2/blob/master/griffin_lim_synthesis_tool.ipynb)
 
