@@ -12,7 +12,7 @@ The notebook is about generating speech audio using the pre-trained wave-glow mo
 The process to run the generation is listed on the notebook.
 Two notebooks are available for two different commits.
 
-- [WaveGlow evalution notebook](https://github.com/cbrom/Tacotron-2/blob/master/WaveGlow/WaveGlow.ipynb)
+- [WaveGlow performance evalution notebook](https://github.com/cbrom/Tacotron-2/blob/master/WaveGlow/WaveGlow.ipynb)
 
 - [Colab notebook](https://colab.research.google.com/drive/1rEGqQNpSofGagSKkq08ZMGVZzMPbqu8C)
 
